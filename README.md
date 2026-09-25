@@ -12,7 +12,7 @@ This repository is dedicated to providing support and study materials for the la
 - [@LiyanageKalana7x](https://github.com/LiyanageKalana7x) - Engineering Instructor | Repository owner
 
 
-## Appendix
+## References
 
 Image courtesy of https://lastminuteengineers.com/
 
