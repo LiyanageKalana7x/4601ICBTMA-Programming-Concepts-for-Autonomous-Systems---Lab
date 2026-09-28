@@ -11,6 +11,13 @@ This repository is dedicated to providing support and study materials for the la
 
 - [@LiyanageKalana7x](https://github.com/LiyanageKalana7x) - Engineering Instructor | Repository owner
 
+## Instructions
+
+1. Each folder contains a Sketch (.ino file). Some folders also contain steps for prototyping the circuit.
+2. Read all the comments carefully.
+3. Instead of copying and pasting the code, try to understand the logic behind it and type the code line by line 
+   to get the full idea.
+4. If you need any support regarding these tutorials, please contact "lkengage@gmail.com" via email.
 
 ## References
 
