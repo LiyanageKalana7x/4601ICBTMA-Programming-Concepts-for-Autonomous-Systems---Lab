@@ -27,12 +27,12 @@
  * 
  */
 // Define "Global" Variables.
-int PushButton = 2; // GPIO 2 is now called "PushButton"
-int TrafficLED_R = 3; // GPIO 3 is now called "TrafficLED_R"
-int TrafficLED_A = 4; // GPIO 4 is now called "TrafficLED_A"
-int TrafficLED_G = 5; // GPIO 5 is now called "TrafficLED_G"
-int PedestrianLED_R = 6; // GPIO 6 is now called "PedestrianLED_R"
-int PedestrianLED_G = 7; // GPIO 7 is now called "PedestrianLED_G"
+#define PushButton  2 // GPIO 2 is now called "PushButton"
+#define TrafficLED_R 3 // GPIO 3 is now called "TrafficLED_R"
+#define TrafficLED_A 4 // GPIO 4 is now called "TrafficLED_A"
+#define TrafficLED_G 5 // GPIO 5 is now called "TrafficLED_G"
+#define PedestrianLED_R 6 // GPIO 6 is now called "PedestrianLED_R"
+#define PedestrianLED_G 7 // GPIO 7 is now called "PedestrianLED_G"
 
 // Dummy functions
 void TrafficCON(); // Function to control Traffic Lights.
