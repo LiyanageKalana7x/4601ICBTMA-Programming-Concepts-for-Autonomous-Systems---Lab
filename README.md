@@ -40,7 +40,7 @@ https://maps.app.goo.gl/QpoReppgBq2JKzG99
 It is generally better to purchase components from Pettah, as there are multiple electronics shops in the area. If a particular component is out of stock at one shop, you can easily check other nearby shops.
 
 | Component | QTY |
-| -------- | -------- |
+| :--- | :---: |
 | ESP32 WROOM 32 Dev Board |  1 |
 | Arduino UNO Dev Board |  1 |
 | USB data cable for Arduino UNO |  1 |
