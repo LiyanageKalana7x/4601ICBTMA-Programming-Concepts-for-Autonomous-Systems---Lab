@@ -41,7 +41,7 @@ It is generally better to purchase components from Pettah, as there are multiple
 
 | Component | QTY |
 | :--- | :---: |
-| ESP32 WROOM 32 Dev Board |  1 |
+| ESP32-WROOM-32 Dev Board |  1 |
 | Arduino UNO Dev Board |  1 |
 | USB data cable for Arduino UNO |  1 |
 | USB data cable for NodeMCU |  1 |
