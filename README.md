@@ -57,6 +57,8 @@ It is generally better to purchase components from Pettah, as there are multiple
 | Green LED 5mm |  10 |
 | Yellow LED 5mm |  10 |
 | Red LED 5mm |  10 |
+| 100 Ohms Resistor 1/4 watts |  10 |
+| 220 Ohms Resistor 1/4 watts |  10 |
 | 330 Ohms Resistor 1/4 watts |  10 |
 | 1K Resistor 1/4 watts |  10 |
 | 10k Resistor 1/4 watts |  10 |
