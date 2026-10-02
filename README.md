@@ -9,7 +9,7 @@ This repository is dedicated to providing support and study materials for the la
 
 ## Authors
 
-- [@LiyanageKalana7x](https://github.com/LiyanageKalana7x) - Engineering Instructor | Repository owner
+- [@LiyanageKalana7x](https://github.com/LiyanageKalana7x) - Engineering Instructor | Repository owner 
 
 ## Instructions
 
@@ -41,29 +41,29 @@ It is generally better to purchase components from Pettah, as there are multiple
 
 | Component | QTY |
 | -------- | -------- |
-| ESP32 WROOM 32 Dev Board | 1 |
-| Arduino UNO Dev Board | 1 |
-| USB data cable for Arduino UNO | 1 |
-| USB data cable for NodeMCU | 1 |
-| 12V 1A Power Supply (For Arduino Projects) | 1 |
-| Breadboard Power Supply Module | 1 |
-| Small Breadborad (400 points) | 2 |
-| OLED 128 x 64 Display | 1 |
-| 16 x 2 LCD Display with module | 1 |
+| ESP32 WROOM 32 Dev Board |  1 |
+| Arduino UNO Dev Board |  1 |
+| USB data cable for Arduino UNO |  1 |
+| USB data cable for NodeMCU |  1 |
+| 12V 1A Power Supply (For Arduino Projects) |  1 |
+| Breadboard Power Supply Module |  1 |
+| Small Breadborad (400 points) |  2 |
+| OLED 128 x 64 Display |  1 |
+| 16 x 2 LCD Display with module |  1 |
 | M/M jumper wires (10 or 20 cm) | 1 Set |
 | F/F jumper wires (10 or 20 cm) | 1 Set |
 | M/F jumper wires (10 or 20 cm) | 1 Set |
-| Push Buttons | 10 |
-| Green LED 5mm | 10 |
-| Yellow LED 5mm | 10 |
-| Red LED 5mm | 10 |
-| 330 Ohms Resistor 1/4 watts | 10 |
-| 1K Resistor 1/4 watts | 10 |
-| 10k Resistor 1/4 watts | 10 |
-| Buzzer Module (Active) | 1 |
-| 5V Relay Module | 1 |
-| IR Sensor Module | 1 |
-| LDR Module | 1 |
+| Push Buttons |  10 |
+| Green LED 5mm |  10 |
+| Yellow LED 5mm |  10 |
+| Red LED 5mm |  10 |
+| 330 Ohms Resistor 1/4 watts |  10 |
+| 1K Resistor 1/4 watts |  10 |
+| 10k Resistor 1/4 watts |  10 |
+| Buzzer Module (Active) |  1 |
+| 5V Relay Module |  1 |
+| IR Sensor Module |  1 |
+| LDR Module |  1 |
 
 ## References
 
