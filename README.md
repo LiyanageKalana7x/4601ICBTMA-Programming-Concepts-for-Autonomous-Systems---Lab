@@ -62,6 +62,10 @@ It is generally better to purchase components from Pettah, as there are multiple
 | 330 Ohms Resistor 1/4 watts |  10 |
 | 1K Resistor 1/4 watts |  10 |
 | 10k Resistor 1/4 watts |  10 |
+| 7-Segment Display (CC) | 2 |
+| 7- Segment Display (CA) | 2 | 
+| 74LS47 BCD to 7-Segement Driver IC | 2 |
+| CD4511 BCD to 7-Segement Driver IC | 2 |
 | Buzzer Module (Active) |  1 |
 | 5V Relay Module |  1 |
 | IR Sensor Module |  1 |
